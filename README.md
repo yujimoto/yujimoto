@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @yujimoto
-- 🌱 I’m currently learning html, css, js, C 
+- 🌱 I’m planning to learn NextJs next
+- Primarily a MERN stack developer 
 
 <!---
 yujimoto/yujimoto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
